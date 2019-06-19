@@ -67,11 +67,11 @@ public class WordList {
         hardList.add("axiom");
         hardList.add("khaki");
         hardList.add("chapped");
-        hardList.add("razzmatazz");
+        hardList.add("reluctant");
         hardList.add("sky");
         hardList.add("bubbling");
         hardList.add("queue");
-        hardList.add("biogas");
+        hardList.add("quarterly");
         
         return hardList;
     }
