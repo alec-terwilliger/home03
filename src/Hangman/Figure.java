@@ -14,12 +14,7 @@ import java.awt.Graphics;
  */
 public class Figure {
     
-       
-    public Figure()
-    {
-        
-    }
-    
+
     public void drawHead(Graphics g)
     {
         g.fillOval(100, 110, 20, 20);
